@@ -1,0 +1,10 @@
+.box{
+    width: 500px;
+    height:50px;
+    background-color: aquamarine;
+    border-radius: 30px;
+    display: flex;
+    align-items: left;
+    padding:10px;
+    box-sizing: border-box;
+}
